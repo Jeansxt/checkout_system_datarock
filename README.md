@@ -34,8 +34,8 @@ This project implements a flexible checkout system that handles item scanning, a
 
 ### 1. Clone the repository
 ```
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Jeansxt/checkout_system_datarock.git
+cd  checkout_system_datarock
 ```
 
 ### 2. Install dependencies
